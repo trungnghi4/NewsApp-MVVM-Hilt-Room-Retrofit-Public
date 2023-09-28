@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "InitDefaultAndroid"
+rootProject.name = "NewsApp"
 include ':app'
